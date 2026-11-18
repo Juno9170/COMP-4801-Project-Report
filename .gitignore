@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Third-party paper (not ours to redistribute)
+proposal/ahmadian24a.pdf
